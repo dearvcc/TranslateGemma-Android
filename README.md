@@ -8,4 +8,5 @@ Google最近(2026年初)开源的祖传翻译功能translategemma终于在手机
 
 联系作者:
 qq:401915922
+qq群:329872614
 微信:vrgoing
